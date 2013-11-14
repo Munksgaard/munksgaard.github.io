@@ -1,0 +1,9 @@
+label.contact {
+    width: 150px;
+}
+
+abbrev {
+    text-decoration: underline;
+    -moz-text-decoration-style: dotted;
+    -webkit-text-decoration-style: dotted;
+}

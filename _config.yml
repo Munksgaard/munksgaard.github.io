@@ -1,0 +1,7 @@
+lsi: true
+pygments: true
+permalink: pretty
+markdown: rdiscount
+exclude: [README.md, LICENSE, Makefile]
+encoding: UTF-8
+timezone: Europe/Copenhagen
